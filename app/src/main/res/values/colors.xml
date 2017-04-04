@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--activitymain colors-->
+    <color name="mainback">#b27679</color>
+
+    <!--aboutmain-->
+    <color name="about_bak">#ff0</color>
+
+    <!--setting main-->
+    <color name="settingMain">#cc7654</color>
+</resources>
