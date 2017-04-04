@@ -12,11 +12,18 @@
     tools:context="ng.monobyt.taskin.SettingsTaskActivity">
 
     <TextView
+        android:id="@+id/numpickLabel"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/setLabel"
         android:textAllCaps="true"
-        android:textSize="50sp"
+        android:textSize="24sp"
+        android:layout_centerHorizontal="true"/>
+    <NumberPicker
+        android:id="@+id/numpick"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/numpickLabel"
         android:layout_centerHorizontal="true"/>
 
 </RelativeLayout>

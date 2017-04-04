@@ -5,6 +5,11 @@
     <string name="btnAddMain">Add Task</string>
     <string name="about_main">About</string>
     <string name="set_main">Settings</string>
-    <string name="aboutLabel">Learn about TaskIn</string>
-    <string name="setLabel">Task Settings</string>
+    <string name="aboutLabel">
+        Learn about TaskIn
+        This is a simple Todo List App.
+        It serves for my Android App
+        Development self-study project.
+    </string>
+    <string name="setLabel">Choose your preferred Colour..</string>
 </resources>

@@ -6,6 +6,7 @@
 
     <!--activitymain colors-->
     <color name="mainback">#b27679</color>
+    <color name="btnback">#b277</color>
 
     <!--aboutmain-->
     <color name="about_bak">#ff0</color>
